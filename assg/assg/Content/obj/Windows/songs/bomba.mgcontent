@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>H:/sem4/2Dassgff2/assg/assg/Content/songs/bomba.wav</SourceFile>
+  <SourceTime>2018-11-12T20:07:38.340299+08:00</SourceTime>
+  <DestFile>H:/sem4/2Dassgff2/assg/assg/Content/bin/Windows/songs/bomba.xnb</DestFile>
+  <DestTime>2018-11-21T11:04:27.8803318+08:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T23:05:36+08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T23:05:36+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

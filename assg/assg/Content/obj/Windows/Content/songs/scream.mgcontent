@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>I:/sem4/2Dassgff2/assg/assg/Content/songs/scream.wav</SourceFile>
+  <SourceTime>2013-10-24T09:08:06+09:00</SourceTime>
+  <DestFile>I:/sem4/2Dassgff2/assg/assg/Content/bin/Windows/Content/songs/scream.xnb</DestFile>
+  <DestTime>2018-11-19T18:35:38.4125364+09:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-09-06T21:45:22+09:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-06T21:45:22+09:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

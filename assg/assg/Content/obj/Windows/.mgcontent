@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/enemy/balota.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/enemy/bomba.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/enemy/pez2.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/fonts/gamefont.spritefont</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/fonts/gamefont2.spritefont</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/gem.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/alltexture.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/BG.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/g1.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/g1_2.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/g2.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/g3.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/g3_2.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/newall2.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/newcharacter.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/images/newcharacter2.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/layer/cloud_lonely.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/layer/clouds_BG.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/layer/clouds_MG_1.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/layer/clouds_MG_2.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/layer/clouds_MG_3.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/layer/mountains.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/layer/mountains_lightened.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/layer/sky.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/layer/sky_lightened.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/ms1.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/ms2.png</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/songs/bgm.mp3</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/songs/bomba.wav</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/songs/Coin.wav</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/songs/scream.wav</File>
+    <File>H:/sem4/2Dassgff2/assg/assg/Content/withe.png</File>
+  </SourceFiles>
+</SourceFileCollection>
